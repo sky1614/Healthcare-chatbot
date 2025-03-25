@@ -1,6 +1,6 @@
 # healthcare-chatbot
 ## Important Note !!
-Please note that the project is no longer maintained. 
+Please note that the project does not have dataset. 
 If anyone wants to expand it further, simply clone it to your own local , make changes and push to your own github account. 
 
 Thanks all !!! 
